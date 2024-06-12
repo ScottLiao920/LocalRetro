@@ -6,3 +6,6 @@ data/*
 *.ipynb_checkpoints/*
 *.csv
 *.bin
+retro190_pred_reactants.pkl
+USPTO_data.zip
+outputs/*
